@@ -21,22 +21,24 @@ int main( )
     Card c1(13, Card::spades);
     Card c2(1, Card::clubs);
 
-    cout << c1 << endl;
-    cout << c2 << endl;
+    cout << "C1 is: " << c1 << endl;
 
-    // int numCards = 5;
+    cout << "TEST" << endl;
+    cout << "C2 is: " << c2 << endl;
+
+    int numCards = 5;
     
-    // Player p1("Joe");
-    // Player p2("Jane");
+    Player p1("Joe");
+    Player p2("Jane");
     
-    // Deck d;  //create a deck of cards
-    // d.shuffle();
+    Deck d;  //create a deck of cards
+    d.shuffle();
     
-    // dealHand(d, p1, numCards);
-    // dealHand(d, p2, numCards);
+    dealHand(d, p1, numCards);
+    dealHand(d, p2, numCards);
        
-    // cout << p1.getName() <<" has : " << p1.showHand() << endl;
-    // cout << p2.getName() <<" has : " << p2.showHand() << endl;
+    cout << p1.getName() <<" has : " << p1.showHand() << endl;
+    cout << p2.getName() <<" has : " << p2.showHand() << endl;
     
     return EXIT_SUCCESS;  
 }

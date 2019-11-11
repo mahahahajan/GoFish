@@ -18,6 +18,7 @@
 // Note that the Ace is represented by 1 and the King by 13
 #include <cstdlib>
 #include <iostream>
+#include <vector>
 #include <string>
 #include "card.h"
 
@@ -30,57 +31,74 @@ Card::Card(){
 }
 Card::Card(int rank, Suit s){
     myRank = rank;
+    if(myRank == 0){
+        cout << "ERROR" << endl;
+    }
     mySuit = s;
 }
 //  string toString()              const;  // return string version e.g. Ac 4h Js
 string Card::toString() const{
     string myString = rankString(myRank) + suitString(mySuit);
+    return myString;
 }
-// string rankString(int r)       const;  // return "A", "2", ..."Q"  
+// string rankString(int r)       const;  // return "A", "2", ..."Q"
 
 string Card::rankString(int r) const{
-    if(r == 1){
-        return "A";
+    string ans = "";
+    if(r == 0){
+        cout << "ERROR" << endl;
     }
-    if(r == 11){
-        return "J";
+    switch(r){
+        case 1:
+            ans = "A";
+            break;
+        case 11:
+            ans = "J";
+            break;
+        case 12:
+            ans = "Q";
+            break;
+        case 13:
+            ans = "K";
+            break;
+        default:
+            ans = to_string(r);
+            break;
     }
-    if(r == 12){
-        return "Q";
-    }
-    if(r == 13){
-        return "K";
-    }
-    else{
-        return to_string(r);
-    }
+    return ans;
 }
 
-// string suitString(Suit s)      const;  // return "s", "h",... 
+// string suitString(Suit s)      const;  // return "s", "h",...
 string Card::suitString(Suit s) const{
-    if(s == 0){
-        return "S";
-    }
-    if(s == 1){
-        return "H";
-    }
-    if(s == 2){
-        return "D";
-    }
-    else{
-        return "C";
+
+    switch(s){
+        case 0:
+            return "S";
+            break;
+        case 1:
+            return "H";
+            break;
+        case 2:
+            return "D";
+            break;
+        case 3:
+            return  "C";
+            break;
+        default:
+            return "C";
+            break;
     }
 }
 
 // bool sameSuitAs(const Card& c) const;  // true if suit same as c
-    // int  getRank()                 const;  // return rank, 1..13
+// int  getRank()                 const;  // return rank, 1..13
 bool Card::sameSuitAs(const Card& c) const{
-    if(to_string(mySuit) == c.suitString(c.mySuit)){
+    if(suitString(mySuit) == c.suitString(c.mySuit)){
         return true;
     }
     else{
         return false;
-    } 
+    }
 }
 
 int Card::getRank() const{
@@ -88,7 +106,7 @@ int Card::getRank() const{
 }
 
 //  bool operator == (const Card& rhs) const;
-    // bool operator != (const Card& rhs) const;
+// bool operator != (const Card& rhs) const;
 bool Card::operator==(const Card& rhs) const{
     if(sameSuitAs(rhs) && (myRank == rhs.getRank())){
         return true;
@@ -109,5 +127,10 @@ bool Card::operator!=(const Card& rhs) const{
 
 
 ostream& operator << (ostream& out, const Card& c){
-    out << c.toString() << endl;
+    string cardString  = c.toString();
+    out << cardString;
+    return out;
+}
+Card::Suit& operator++(Card::Suit& s){
+    return s = (s == Card::clubs) ? Card::spades : static_cast<Card::Suit>(static_cast<int>(s) + 1);
 }

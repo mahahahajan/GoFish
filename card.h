@@ -23,8 +23,10 @@
 #ifndef _CARD_H
 #define _CARD_H
 
+#include <cstdlib>
 #include <iostream>
 #include <string>
+
 using namespace std;
 
 class Card
