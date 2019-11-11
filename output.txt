@@ -1,0 +1,686 @@
+Game Started with 2 players
+
+Cards have been dealt
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 2S    JD    10S    5D    JH    10D    7C    
+Player 2 has: JC    10C    6D    10H    4H    2C    QH    
+
+The opening gambit: The first books of the game are made
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 2S    5D    7C    
+Player 2 has: JC    6D    4H    2C    QH    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+Player 2 has: 
+	 Book 1: 10H   10C   
+
+Player 1 asks - Do you have any 7
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any Q
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 2S    5D    7C    3C    
+Player 2 has: JC    6D    4H    2C    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+
+Player 1 asks - Do you have any 2
+Player 2 says - Yes. I have a 2
+Player 1 asks - Do you have any 3
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any 4
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 5D    7C    3C    QS    
+Player 2 has: JC    6D    4H    KS    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+
+Player 1 asks - Do you have any 5
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any J
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 5D    3C    QS    
+Player 2 has: JC    6D    4H    KS    8C    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+
+Player 1 asks - Do you have any Q
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any 8
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 5D    3C    QS    7S    
+Player 2 has: JC    6D    4H    8C    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+
+Player 1 asks - Do you have any 5
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any J
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 5D    3C    QS    7S    KC    
+Player 2 has: JC    6D    4H    8C    QC    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+
+Player 1 asks - Do you have any K
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any Q
+Player 1 says - Yes. I have a Q
+Player 2 asks - Do you have any J
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 5D    3C    KC    
+Player 2 has: JC    4H    8C    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+ 	 Book 5: 7D   7S   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+ 	 Book 4: QS   QC   
+ 	 Book 5: 6S   6D   
+
+Player 1 asks - Do you have any K
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any 8
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 5D    3C    KC    2H    
+Player 2 has: JC    4H    8C    3H    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+ 	 Book 5: 7D   7S   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+ 	 Book 4: QS   QC   
+ 	 Book 5: 6S   6D   
+
+Player 1 asks - Do you have any 5
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any J
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 5D    3C    KC    2H    6H    
+Player 2 has: JC    4H    3H    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+ 	 Book 5: 7D   7S   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+ 	 Book 4: QS   QC   
+ 	 Book 5: 6S   6D   
+ 	 Book 6: 8S   8C   
+
+Player 1 asks - Do you have any 6
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any 3
+Player 1 says - Yes. I have a 3
+Player 2 asks - Do you have any J
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 5D    KC    2H    6H    8D    
+Player 2 has: JC    4H    AS    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+ 	 Book 5: 7D   7S   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+ 	 Book 4: QS   QC   
+ 	 Book 5: 6S   6D   
+ 	 Book 6: 8S   8C   
+ 	 Book 7: 3C   3H   
+
+Player 1 asks - Do you have any 8
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any A
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 5D    KC    2H    6H    8D    JS    
+Player 2 has: JC    4H    AS    9H    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+ 	 Book 5: 7D   7S   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+ 	 Book 4: QS   QC   
+ 	 Book 5: 6S   6D   
+ 	 Book 6: 8S   8C   
+ 	 Book 7: 3C   3H   
+
+Player 1 asks - Do you have any 2
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any J
+Player 1 says - Yes. I have a J
+Player 2 asks - Do you have any 9
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 5D    KC    2H    6H    8D    4D    
+Player 2 has: 4H    9H    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+ 	 Book 5: 7D   7S   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+ 	 Book 4: QS   QC   
+ 	 Book 5: 6S   6D   
+ 	 Book 6: 8S   8C   
+ 	 Book 7: 3C   3H   
+ 	 Book 8: JS   JC   
+ 	 Book 9: AH   AS   
+
+Player 1 asks - Do you have any 2
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any 4
+Player 1 says - Yes. I have a 4
+Player 2 asks - Do you have any 9
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 5D    KC    2H    6H    8D    3D    
+Player 2 has: 9H    AD    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+ 	 Book 5: 7D   7S   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+ 	 Book 4: QS   QC   
+ 	 Book 5: 6S   6D   
+ 	 Book 6: 8S   8C   
+ 	 Book 7: 3C   3H   
+ 	 Book 8: JS   JC   
+ 	 Book 9: AH   AS   
+ 	 Book 10: 4D   4H   
+
+Player 1 asks - Do you have any 2
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any 9
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: KC    2H    6H    8D    3D    
+Player 2 has: 9H    AD    KH    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+ 	 Book 5: 7D   7S   
+ 	 Book 6: 5S   5D   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+ 	 Book 4: QS   QC   
+ 	 Book 5: 6S   6D   
+ 	 Book 6: 8S   8C   
+ 	 Book 7: 3C   3H   
+ 	 Book 8: JS   JC   
+ 	 Book 9: AH   AS   
+ 	 Book 10: 4D   4H   
+
+Player 1 asks - Do you have any 3
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any K
+Player 1 says - Yes. I have a K
+Player 2 asks - Do you have any 9
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 2H    6H    8D    3D    4C    
+Player 2 has: 9H    AD    8H    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+ 	 Book 5: 7D   7S   
+ 	 Book 6: 5S   5D   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+ 	 Book 4: QS   QC   
+ 	 Book 5: 6S   6D   
+ 	 Book 6: 8S   8C   
+ 	 Book 7: 3C   3H   
+ 	 Book 8: JS   JC   
+ 	 Book 9: AH   AS   
+ 	 Book 10: 4D   4H   
+ 	 Book 11: KC   KH   
+
+Player 1 asks - Do you have any 4
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any 8
+Player 1 says - Yes. I have a 8
+Player 2 asks - Do you have any 9
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 2H    3D    4C    
+Player 2 has: AD    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+ 	 Book 5: 7D   7S   
+ 	 Book 6: 5S   5D   
+ 	 Book 7: 6C   6H   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+ 	 Book 4: QS   QC   
+ 	 Book 5: 6S   6D   
+ 	 Book 6: 8S   8C   
+ 	 Book 7: 3C   3H   
+ 	 Book 8: JS   JC   
+ 	 Book 9: AH   AS   
+ 	 Book 10: 4D   4H   
+ 	 Book 11: KC   KH   
+ 	 Book 12: 8D   8H   
+ 	 Book 13: 9C   9H   
+
+Player 1 asks - Do you have any 4
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any A
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 2H    3D    4C    5C    
+Player 2 has: AD    5H    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+ 	 Book 5: 7D   7S   
+ 	 Book 6: 5S   5D   
+ 	 Book 7: 6C   6H   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+ 	 Book 4: QS   QC   
+ 	 Book 5: 6S   6D   
+ 	 Book 6: 8S   8C   
+ 	 Book 7: 3C   3H   
+ 	 Book 8: JS   JC   
+ 	 Book 9: AH   AS   
+ 	 Book 10: 4D   4H   
+ 	 Book 11: KC   KH   
+ 	 Book 12: 8D   8H   
+ 	 Book 13: 9C   9H   
+
+Player 1 asks - Do you have any 2
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any A
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 2H    3D    5C    
+Player 2 has: AD    5H    9D    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+ 	 Book 5: 7D   7S   
+ 	 Book 6: 5S   5D   
+ 	 Book 7: 6C   6H   
+ 	 Book 8: 4S   4C   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+ 	 Book 4: QS   QC   
+ 	 Book 5: 6S   6D   
+ 	 Book 6: 8S   8C   
+ 	 Book 7: 3C   3H   
+ 	 Book 8: JS   JC   
+ 	 Book 9: AH   AS   
+ 	 Book 10: 4D   4H   
+ 	 Book 11: KC   KH   
+ 	 Book 12: 8D   8H   
+ 	 Book 13: 9C   9H   
+
+Player 1 asks - Do you have any 5
+Player 2 says - Yes. I have a 5
+Player 1 asks - Do you have any 2
+Player 2 says - Go Fish 
+
+Player 2 asks - Do you have any A
+Player 1 says - Yes. I have a A
+Player 2 asks - Do you have any 9
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 2H    3D    
+Player 2 has: 
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+ 	 Book 5: 7D   7S   
+ 	 Book 6: 5S   5D   
+ 	 Book 7: 6C   6H   
+ 	 Book 8: 4S   4C   
+ 	 Book 9: 5H   5C   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+ 	 Book 4: QS   QC   
+ 	 Book 5: 6S   6D   
+ 	 Book 6: 8S   8C   
+ 	 Book 7: 3C   3H   
+ 	 Book 8: JS   JC   
+ 	 Book 9: AH   AS   
+ 	 Book 10: 4D   4H   
+ 	 Book 11: KC   KH   
+ 	 Book 12: 8D   8H   
+ 	 Book 13: 9C   9H   
+ 	 Book 14: AC   AD   
+ 	 Book 15: 9S   9D   
+
+Player 1 asks - Do you have any 2
+Player 2 says - Go Fish 
+
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 2H    
+Player 2 has: 2D    
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+ 	 Book 5: 7D   7S   
+ 	 Book 6: 5S   5D   
+ 	 Book 7: 6C   6H   
+ 	 Book 8: 4S   4C   
+ 	 Book 9: 5H   5C   
+ 	 Book 10: 3S   3D   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+ 	 Book 4: QS   QC   
+ 	 Book 5: 6S   6D   
+ 	 Book 6: 8S   8C   
+ 	 Book 7: 3C   3H   
+ 	 Book 8: JS   JC   
+ 	 Book 9: AH   AS   
+ 	 Book 10: 4D   4H   
+ 	 Book 11: KC   KH   
+ 	 Book 12: 8D   8H   
+ 	 Book 13: 9C   9H   
+ 	 Book 14: AC   AD   
+ 	 Book 15: 9S   9D   
+
+Player 1 asks - Do you have any 2
+Player 2 says - Yes. I have a 2
+Player 2 says - Go Fish 
+
+Player 1 says - Go Fish 
+
+***************************************
+Current Hands: 
+***************************************
+Player 1 has: 
+Player 2 has: 
+
+***************************************
+Current Books: 
+***************************************
+Player 1 has: 
+	 Book 1: JH   JD   
+ 	 Book 2: 10D   10S   
+ 	 Book 3: 2C   2S   
+ 	 Book 4: 7H   7C   
+ 	 Book 5: 7D   7S   
+ 	 Book 6: 5S   5D   
+ 	 Book 7: 6C   6H   
+ 	 Book 8: 4S   4C   
+ 	 Book 9: 5H   5C   
+ 	 Book 10: 3S   3D   
+ 	 Book 11: 2D   2H   
+Player 2 has: 
+	 Book 1: 10H   10C   
+ 	 Book 2: QD   QH   
+ 	 Book 3: KD   KS   
+ 	 Book 4: QS   QC   
+ 	 Book 5: 6S   6D   
+ 	 Book 6: 8S   8C   
+ 	 Book 7: 3C   3H   
+ 	 Book 8: JS   JC   
+ 	 Book 9: AH   AS   
+ 	 Book 10: 4D   4H   
+ 	 Book 11: KC   KH   
+ 	 Book 12: 8D   8H   
+ 	 Book 13: 9C   9H   
+ 	 Book 14: AC   AD   
+ 	 Book 15: 9S   9D   
+
+Player 2 wins!

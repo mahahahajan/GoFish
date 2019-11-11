@@ -27,8 +27,8 @@ bool Player::checkHandForBook(Card &c1, Card &c2) {
 					 c.getRank())) {			 // same Rank, diff card
 					bookCards(myHand.at(j), c);  // book cards
 					// Remove cards
-                    cout << "Card 1 being removed (j) " << myHand.at(j) << endl;
-                    cout << "Card 2 being removed (c) " << c << endl;
+                    // cout << "Card 1 being removed (j) " << myHand.at(j) << endl;
+                    // cout << "Card 2 being removed (c) " << c << endl;
 					removeCardFromHand(myHand.at(j));
 					removeCardFromHand(c);
 					// Made a pair so lets reset everything
