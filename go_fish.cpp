@@ -1,9 +1,10 @@
 // FILE: card_demo.cpp
 // This is a small demonstration program showing how the Card and Deck classes
 // are used.
+#include <fstream>
 #include <cstdlib>   // Provides EXIT_SUCCESS
 #include <iostream>  // Provides cout and cin
-#include <fstream>
+
 #include "card.h"
 #include "deck.h"
 #include "player.h"
@@ -169,6 +170,7 @@ void nextTurn(Card &c1, Card &c2, Deck &d) {
         while (nextPlayer->sameRankInHand(c)) {
             cout << nextPlayer->getName() << " says - Yes. I have a "
                  << c.rankString(cardRank) << endl;
+            
             Card removeCard = nextPlayer->removeCardFromHand(c);
             currPlayer->addCard(removeCard);
             currPlayer->checkHandForBook(c1, c2);
